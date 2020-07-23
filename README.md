@@ -5,6 +5,3 @@ I made a bot that will probably take over **Rythm, MEE6, Dyno and Streamcord** i
 </p>
 
 Come talk to me: https://discord.gg/T3HcXYq
-<p>
-  <img src="https://discord.com/api/guilds/691995074518581378/embed.png" img>
-</p>
