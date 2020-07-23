@@ -1,4 +1,4 @@
-I made a [bot](https://slio.github.io) that will probably take over **Rythm, MEE6, Dyno and Streamcord** in a few years.
+I made a [bot](https://dylster888.github.io/slio.github.io) that will probably take over **Rythm, MEE6, Dyno and Streamcord** in a few years.
 
 <p>
   <img src="https://cdn.discordapp.com/attachments/725017368450826350/735800910373978132/image.png" img>
