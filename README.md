@@ -1,7 +1,5 @@
-I made a [bot](https://selectbots.dylster.dev/docs/slio) that will probably take over **Rythm, MEE6, Dyno and Streamcord** in a few years.
+I am a Discord Bot developer who owns the next best bot [Slio](https://selectdevelopment.dylster.dev/docs/slio)
 
 <p>
-  <img src="https://cdn.discordapp.com/attachments/725017368450826350/735800910373978132/image.png" img>
+  <img src="https://media.discordapp.net/attachments/623603557773475850/750742015058116628/achievement.png" img>
 </p>
-
-Come talk to me: https://discord.gg/T3HcXYq
