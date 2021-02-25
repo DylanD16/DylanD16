@@ -8,6 +8,4 @@ Send me an [Email](mailto:hi@dylster.dev)
 
 I have worked on the website design and bot for [Blist](https://blist.xyz)! They are an amazing bot list and you should [add your bot](https://blist.xyz/bot/add) today!
 
-[![Dylster's GitHub stats](https://github-readme-stats.vercel.app/api?username=DyIster&theme=algolia)](https://github-readme-stats.vercel.app/api?username=DylsterDev&theme=algolia))
-
-<img src="https://cdn.dylster.dev/WinterBanner.png" width="500px"></img>
+[![Dylster's GitHub stats](https://github-readme-stats.vercel.app/api?username=DylsterDev&theme=algolia)](https://github-readme-stats.vercel.app/api?username=DylsterDev&theme=algolia))
